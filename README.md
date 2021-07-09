@@ -20,3 +20,12 @@ This web application will help Student and Employee of Banasthali Vidyapith Univ
 ![Screenshot (665)](https://user-images.githubusercontent.com/87170783/125075270-ffdc0100-e0db-11eb-839c-8a8a7c1d258b.png)
 
 # Patient Portal
+![Screenshot (667)](https://user-images.githubusercontent.com/87170783/125076028-028b2600-e0dd-11eb-802d-b2fe990190b2.png)
+![Screenshot (668)](https://user-images.githubusercontent.com/87170783/125076030-0454e980-e0dd-11eb-8793-9fd587bd0033.png)
+![Screenshot (669)](https://user-images.githubusercontent.com/87170783/125076032-05861680-e0dd-11eb-9eb3-69aca0ac4a0c.png)
+![Screenshot (672)](https://user-images.githubusercontent.com/87170783/125076042-08810700-e0dd-11eb-8d65-ba0d26f59020.png)
+![Screenshot (673)](https://user-images.githubusercontent.com/87170783/125076047-0ae36100-e0dd-11eb-8d88-04a315ef3ae5.png)
+![Screenshot (674)](https://user-images.githubusercontent.com/87170783/125076055-0f0f7e80-e0dd-11eb-9c61-9d75f392f923.png)
+![Screenshot (675)](https://user-images.githubusercontent.com/87170783/125076057-1040ab80-e0dd-11eb-8b55-407730e0ac21.png)
+
+# Doctor Portal
